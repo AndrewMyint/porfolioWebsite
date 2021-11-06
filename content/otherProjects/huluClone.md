@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-A clone version of sigle page UI from Hulu.com, which is built by using external API from [TMDB](https://www.themoviedb.org/?language=en-US).
+A clone version of single page UI from Hulu.com, which is built by using external API from [TMDB](https://www.themoviedb.org/?language=en-US).
