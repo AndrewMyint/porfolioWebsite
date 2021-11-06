@@ -96,7 +96,7 @@ const Footer = () => {
           {socialMedia &&
             socialMedia.map(({ name, url }, i) => (
               <li key={i}>
-                <a href={url} aria-label={name}>
+                <a href={url} aria-label={name} rel="noreferrer" target="_blank">
                   <Icon name={name} />
                 </a>
               </li>
@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
+        <a href="https://github.com/bchiang7/v4" rel="noreferrer" target="_blank">
           <div>Designed &amp; Built by Brittany Chiang</div>
 
           {githubInfo.stars && githubInfo.forks && (
