@@ -126,40 +126,37 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TailwindCSS',
+    'React',
+    'Node.js',
+    'MongoDB',
+    'D3.js',
+    'Rechart.js',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">{`<About Me/>`}</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hi! My name is Andrew. I am a software engineer, graduated with CS degree, and
+              advanced immersive coding bootcamp from{' '}
+              <a href="https://www.hackreactor.com/">HackReactor</a>. I specialize in building web
+              application, front to all the way the back. I started working as GUI Developer at
+              <a href="https://www.fit.edu/">Florida Tech</a> for 2 year, where I polished my web
+              development skills.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Currently, I am working as a Full-Stack Developer at{' '}
+              <a href="https://www.makesoil.org/map">MakeSoil</a> non-profit organization. Ideally,
+              I would like to continue to specialize in web development, looking forward to expend
+              my experience across the industries.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -174,7 +171,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

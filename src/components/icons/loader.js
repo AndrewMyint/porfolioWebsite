@@ -24,6 +24,33 @@ const IconLoader = () => (
       />
     </g>
   </svg>
+  // <svg id="logo" xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 100 100">
+  //   <title>Loader Logo</title>
+  //   <text
+  //     // id="_AM_"
+  //     data-name="&lt;AM/&gt;"
+  //     // transform="translate(0 33)"
+  //     fill="currentColor"
+  //     fontWeight="100"
+  //     x="50%"
+  //     y="50%"
+  //     dominantBaseline="middle"
+  //     id="B"
+  //     transform="translate(11.000000, 5.000000)">
+  //     <tspan x="0" y="0" fontSize="100" fontWeight="800">
+  //       {'<'}
+  //     </tspan>
+  //     <tspan y="0" fontSize="80" fontWeight="800">
+  //       AM
+  //     </tspan>
+  //     <tspan y="0" fontSize="80" fontWeight="300">
+  //       /
+  //     </tspan>
+  //     <tspan y="0" fontSize="100" fontWeight="800">
+  //       {'>'}
+  //     </tspan>
+  //   </text>
+  // </svg>
 );
 
 export default IconLoader;
