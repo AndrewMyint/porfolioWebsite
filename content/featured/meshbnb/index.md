@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'API Stress Testing'
+title: 'Stress Testing the API'
 cover: './meshbnb.png'
 github: 'https://github.com/sdc-dragon-stone/am-service'
 external: 'https://aws.plainenglish.io/stress-testing-the-curd-api-in-aws-ec2-micro-instance-a2c5b70690d2'
