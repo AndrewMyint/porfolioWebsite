@@ -158,12 +158,15 @@ const About = () => {
             </p>
 
             <p>
-              Currently, I am working as a Full-Stack Developer at{' '}
-              <a href="https://www.makesoil.org/map" target="_blank" rel="noopener noreferrer">
-                MakeSoil
+              Currently, I am working as a Software Engineer at{' '}
+              <a
+                href="https://www.deepplanetresearch.com/"
+                target="_blank"
+                rel="noopener noreferrer">
+                Deep Planet Research, LLC.
               </a>{' '}
-              non-profit organization. Ideally, I would like to continue to specialize in web
-              development, looking forward to expend my experience across the industries.
+              Ideally, I would like to continue to specialize in web development, looking forward to
+              expend my experience across the industries.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
