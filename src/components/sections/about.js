@@ -145,7 +145,7 @@ const About = () => {
           <div>
             <p>
               Hi! My name is Andrew. I am a software engineer, graduated with a CS degree at{' '}
-              <a href="https://www.fit.com/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.fit.edu/" target="_blank" rel="noopener noreferrer">
                 Florida Tech
               </a>
               , and advanced immersive coding bootcamp from{' '}
