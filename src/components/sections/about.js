@@ -144,17 +144,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Andrew. I am a software engineer, graduated with CS degree, and
-              advanced immersive coding bootcamp from{' '}
+              Hi! My name is Andrew. I am a software engineer, graduated with a CS degree at{' '}
+              <a href="https://www.fit.com/" target="_blank" rel="noopener noreferrer">
+                Florida Tech
+              </a>
+              , and advanced immersive coding bootcamp from{' '}
               <a href="https://www.hackreactor.com/" target="_blank" rel="noopener noreferrer">
                 HackReactor
               </a>
               . I specialize in building web application, front to all the way the back. I started
-              working as GUI Developer at
+              working as GUI Developer at{' '}
               <a href="https://www.fit.edu/" target="_blank" rel="noopener noreferrer">
                 Florida Tech
               </a>{' '}
-              for 2 year, where I polished my web development skills.
+              for 2 years, where I polished my web development skills.
             </p>
 
             <p>
