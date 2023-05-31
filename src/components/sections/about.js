@@ -144,26 +144,32 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Andrew. I am a software engineer, graduated with CS degree, and
-              advanced immersive coding bootcamp from{' '}
+              Hi! My name is Andrew. I am a software engineer, graduated with a CS degree at{' '}
+              <a href="https://www.fit.edu/" target="_blank" rel="noopener noreferrer">
+                Florida Tech
+              </a>
+              , and advanced immersive coding bootcamp from{' '}
               <a href="https://www.hackreactor.com/" target="_blank" rel="noopener noreferrer">
                 HackReactor
               </a>
               . I specialize in building web application, front to all the way the back. I started
-              working as GUI Developer at
+              working as GUI Developer at{' '}
               <a href="https://www.fit.edu/" target="_blank" rel="noopener noreferrer">
                 Florida Tech
               </a>{' '}
-              for 2 year, where I polished my web development skills.
+              for 2 years, where I polished my web development skills.
             </p>
 
             <p>
-              Currently, I am working as a Full-Stack Developer at{' '}
-              <a href="https://www.makesoil.org/map" target="_blank" rel="noopener noreferrer">
-                MakeSoil
+              Currently, I am working as a Software Engineer at{' '}
+              <a
+                href="https://www.deepplanetresearch.com/"
+                target="_blank"
+                rel="noopener noreferrer">
+                Deep Planet Research, LLC.
               </a>{' '}
-              non-profit organization. Ideally, I would like to continue to specialize in web
-              development, looking forward to expend my experience across the industries.
+              Ideally, I would like to continue to specialize in web development, looking forward to
+              expend my experience across the industries.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
