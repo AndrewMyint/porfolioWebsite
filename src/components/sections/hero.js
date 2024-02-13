@@ -64,14 +64,23 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a software engineer, a nerd for all things new and exciting in the web development. I
-        specialize in using Reactjs, building web servers with Nodejs and Expressjs, SQL and NoSQL
-        databases, always love to learn a new things and make an impact in the web development
-        {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a> */}
-        .
+        I'm a software engineer dedicated to creating exceptional digital solutions. I'm currently
+        focused on modernizing social security systems at Partner Associates Int'l Co., Ltd., aiming
+        to positively impact millions of lives.
       </p>
+      {/* <p>
+        Starting in 2019 as a GUI Developer at Embraer, I developed data visualization applications,
+        enhancing decision-making. My career has since spanned automotive, aircraft manufacturing,
+        and social security, highlighting my growth from specific projects to leading diverse,
+        impactful initiatives across sectors.
+      </p> */}
+      {/* <p>
+        Currently, I'm dedicated to using my full-stack development skills to improve social
+        security systems. By applying advanced technologies, I aim to make these services more
+        efficient, accessible, and reliable, focusing on making a real difference in how millions
+        access and benefit from them. This effort to blend technology with social impact guides my
+        work, aiming to create meaningful, life-improving solutions.
+      </p> */}
     </>
   );
   // const five = (

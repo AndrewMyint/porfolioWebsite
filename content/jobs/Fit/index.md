@@ -3,7 +3,7 @@ date: '2019-09-21'
 title: 'GUI Developer'
 company: 'Florida Tech'
 location: 'Melbourne, FL'
-range: 'September 2019 - Augest 2021'
+range: '2019 - 2021'
 url: 'https://www.fit.edu/'
 ---
 

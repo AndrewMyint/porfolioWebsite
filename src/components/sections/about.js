@@ -126,15 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = [
-    'JavaScript (ES6+)',
-    'Styled Component',
-    'React',
-    'Node.js',
-    'MongoDB',
-    'MySQL',
-    'GraphQL',
-  ];
+  const skills = ['React', 'Angular', 'Node.js', '.NetCore', 'MongoDB', 'SQL Server', 'GraphQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,32 +136,33 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi! My name is Andrew. I am a software engineer, graduated with a CS degree at{' '}
+              Hi! My name is Andrew. I am a software engineer, I started my software engineer as a
+              GUI Developer at{' '}
               <a href="https://www.fit.edu/" target="_blank" rel="noopener noreferrer">
                 Florida Tech
               </a>
-              , and advanced immersive coding bootcamp from{' '}
-              <a href="https://www.hackreactor.com/" target="_blank" rel="noopener noreferrer">
-                HackReactor
-              </a>
-              . I specialize in building web application, front to all the way the back. I started
-              working as GUI Developer at{' '}
-              <a href="https://www.fit.edu/" target="_blank" rel="noopener noreferrer">
-                Florida Tech
-              </a>{' '}
-              for 2 years, where I polished my web development skills.
+              , developed data visualization, that enhance decision-making in aircraft
+              manufacturing. My career has since spanned automotive, aircraft manufacturing, and
+              social security, highlighting my growth from specific projects to leading diverse,
+              impactful initiatives across sectors.
             </p>
 
             <p>
-              Currently, I am working as a Software Engineer at{' '}
+              Currently, I'm dedicated to using my full-stack development skills in building a
+              digitize social security systems at{' '}
               <a
-                href="https://www.deepplanetresearch.com/"
+                href="https://partnerassociates.com/home"
                 target="_blank"
                 rel="noopener noreferrer">
-                Deep Planet Research, LLC.
+                Partner Associates Int'l Co., Ltd
               </a>{' '}
-              Ideally, I would like to continue to specialize in web development, looking forward to
-              expend my experience across the industries.
+              . My aim is to make a meaningful impact on millions by blending technology with social
+              impact.
+            </p>
+
+            <p>
+              When I'm not coding, you'll find me diving into system design books, hitting the gym
+              for a good workout, or watching mystery and horror movies.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

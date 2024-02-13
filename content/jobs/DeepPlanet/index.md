@@ -3,12 +3,11 @@ date: '2021-11-20'
 title: 'Software Engineer'
 company: 'Deep Planet, LLC'
 location: 'Melbourne, Florida'
-range: 'Nov 2021 - Current'
+range: '2021 - 2022'
 url: 'https://www.deepplanetresearch.com/'
 ---
 
-- Worked on a fast-paced Agile team to deliver MVP feature that meets the performance, and scalability standard of clients
-- Collaborated with UX designers to implement responsive designs using HTML, CSS, and JavaScript, which resulted in an improved user experience across multiple devices
-- Designed and implemented a strong authentication and authorization system in collaboration with a cross-functional team,resulting in increased security and industry-standard compliance
-- Integrated a stress test on deployed services with loader.io to ensure how much traffic can be handled at most
-- Actively participated in Agile development processes, attending daily stand-ups, sprint planning, and retrospectives
+- Contributed to developing Prixview, a platform enhancing horse sports engagement, by implementing sophisticated security mechanisms.
+- Designed and implemented a robust authentication and authorization system using Django, enhancing security with industry standards.
+- Conducted stress tests on API services with loader.io to determine maximum traffic capacity, ensuring robust performance under load.
+- Enhanced system performance through AWS ELB horizontal scaling, achieving 2x throughput and response times under 200 ms with exceptional reliability.
